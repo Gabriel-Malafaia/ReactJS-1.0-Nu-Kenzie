@@ -4,10 +4,10 @@
 - Uma aplicação web que o intuito é que o usuário possa ter o controle de suas finanças, podendo adicionar gastos e recebidos durante sua rotina.
 
 ## 💻 Tecnologia
-- React JS
+- React JS.
 
 ## 🔮 Bibliotecas
-- Animate CSS
+- Animate CSS.
  
 ## 🔆 Algumas Funcionalidades
 - Adicionar e remover Finanças.
