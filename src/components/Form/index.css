@@ -1,0 +1,52 @@
+.form__homepage {
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+  padding: 2rem;
+  border: 1px solid var(--color-grey-2);
+  border-radius: 8px;
+}
+
+.form__homepage button,
+.form__homepage--description input,
+.form__homepage--select input,
+.form__homepage--select select {
+  width: 100%;
+  height: 3rem;
+}
+
+.form__homepage--description {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__homepage--description input {
+  margin-bottom: 5px;
+}
+
+.form__homepage--select {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.form__homepage--select div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  width: 45%;
+}
+
+.form__homepage--select p {
+  position: absolute;
+  bottom: 20%;
+  left: 35%;
+}
+
+.form__homepage button {
+  transition: all 0.3s;
+}
+
+.form__homepage button:hover {
+  background-color: #ff166b;
+}

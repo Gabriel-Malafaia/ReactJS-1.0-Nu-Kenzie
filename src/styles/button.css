@@ -1,0 +1,9 @@
+button {
+    cursor: pointer;
+    min-width: 70px;
+}
+
+.border-radius{
+    border-radius: 8px;
+    padding: 6px;
+}
